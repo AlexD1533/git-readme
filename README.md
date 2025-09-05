@@ -18,11 +18,11 @@
 
 
 ```mermaid
-
 graph LR;
 %% комментарий
-A --> B;
-git log -- "--oneline" --> commits info;
+  A --> B;
+  git log -- "--oneline" --> commits info;
 ```
+
 
  ## Удачи!
