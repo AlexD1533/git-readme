@@ -20,7 +20,7 @@
 ```mermaid
 
 graph LR;
-%% A --> B
+%% A --> B;
 git log -- oneline --> commits info;
 ```
 
