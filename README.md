@@ -18,10 +18,10 @@
 
 
 ```mermaid
-graph LR;
+graph LR
 %% комментарий
-  A --> B;
-  ["git log --oneline"] --> ["commits info"];
+  A --> B
+  C["git log --oneline"] --> D["commits info"]
 ```
 
 
