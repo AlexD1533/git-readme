@@ -23,6 +23,7 @@ graph LR;
 %% комментарий
 A --> B;
 git log --oneline --> commits info;
+
 ```
 
  ## Удачи!
