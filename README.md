@@ -15,4 +15,13 @@
  - git push origin --delete main - удалить ветку на удаленном репозитории
  
  -git branch -m master - переименовать ветку на локальном
+
+
+```mermaid
+
+graph LR;
+%% A --> B
+git log -- oneline --> commits info;
+```
+
  ## Удачи!
