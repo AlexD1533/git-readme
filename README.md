@@ -18,11 +18,12 @@
 
 
 ```mermaid
-
 graph LR;
-%% комментарий
-A --> B;
-git log --oneline --> commits info;
-```
+  untracked -- "git add" --> staged;
+  staged    -- "???"     --> tracked/comitted;
+
+%% стрелка без текста для примера: 
+  A --> B;
+``` 
 
  ## Удачи!
