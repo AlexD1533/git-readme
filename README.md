@@ -20,8 +20,9 @@
 ```mermaid
 
 graph LR;
-%% A --> B;
-git log -- oneline --> commits info;
+%% комментарий
+A --> B;
+git log --oneline --> commits info;
 ```
 
  ## Удачи!
